@@ -30,4 +30,4 @@ Tried extracting data from source files without any processing, as they are not 
 
 # Workflow
 
-<img src="https://github.com/piyush3589/MedicalExtractionProject/blob/main/Backend/Notebooks/workflow.jpg" class = "center">
+<img src="https://github.com/piyush3589/MedicalExtractionProject/tree/main/Notebooks/workflow.jpg" class = "center">
