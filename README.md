@@ -9,7 +9,7 @@ To solve all these problems, we are building a program which can do the extracti
 Here, we are using the Python programming language and pytesseract google library for extracting the data and Regex module to process the data and get distilled desired output.
 
 # Technologies Used
-
+  
   * Python
   * oops
   * df2image module
@@ -19,3 +19,11 @@ Here, we are using the Python programming language and pytesseract google librar
   * pytest
   * Postman
   * FastApi
+
+# PDF to Image
+
+For converting PDF to image, we have used pdf2image library.
+
+Without preprocessing extracting data
+
+Tried extracting data from source files without any processing, as they are not in proper format to be extracted, the extracted data was not as expected.
