@@ -27,3 +27,7 @@ For converting PDF to image, we have used pdf2image library.
 Without preprocessing extracting data
 
 Tried extracting data from source files without any processing, as they are not in proper format to be extracted, the extracted data was not as expected.
+
+# Workflow
+
+<img src="https://github.com/piyush3589/MedicalExtractionProject/blob/main/Backend/Notebooks/workflow.jpg" class = "center">
